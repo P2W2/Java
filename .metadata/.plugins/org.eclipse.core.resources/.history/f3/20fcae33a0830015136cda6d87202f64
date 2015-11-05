@@ -1,6 +1,5 @@
 package alpv_ws1415.ub1.webradio.webradio;
 //Hello Git
-//One hello for you aswell
 import alpv_ws1415.ub1.webradio.communication.ClientTCP;
 import alpv_ws1415.ub1.webradio.communication.ServerTCP;
 import alpv_ws1415.ub1.webradio.ui.ServerGUI;
